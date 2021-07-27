@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a01dc1f1.chunk.css",
+    "main.js": "./static/js/main.98be4666.chunk.js",
+    "main.js.map": "./static/js/main.98be4666.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.22b285cb.js",
+    "runtime-main.js.map": "./static/js/runtime-main.22b285cb.js.map",
+    "static/css/2.9614b50a.chunk.css": "./static/css/2.9614b50a.chunk.css",
+    "static/js/2.d3417aed.chunk.js": "./static/js/2.d3417aed.chunk.js",
+    "static/js/2.d3417aed.chunk.js.map": "./static/js/2.d3417aed.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.9614b50a.chunk.css.map": "./static/css/2.9614b50a.chunk.css.map",
+    "static/css/main.a01dc1f1.chunk.css.map": "./static/css/main.a01dc1f1.chunk.css.map",
+    "static/js/2.d3417aed.chunk.js.LICENSE.txt": "./static/js/2.d3417aed.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "./static/media/outline-icons.ddae9b1b.woff",
+    "static/media/premium-logo.6210999d.png": "./static/media/premium-logo.6210999d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22b285cb.js",
+    "static/css/2.9614b50a.chunk.css",
+    "static/js/2.d3417aed.chunk.js",
+    "static/css/main.a01dc1f1.chunk.css",
+    "static/js/main.98be4666.chunk.js"
+  ]
+}
