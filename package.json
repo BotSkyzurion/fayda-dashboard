@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": ".",
-  "proxy": "http://localhost:5000",
+  
   "dependencies": {
     "@chakra-ui/core": "^0.8.0",
     "@emotion/core": "^10.1.1",
